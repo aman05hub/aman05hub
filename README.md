@@ -34,7 +34,7 @@ A simple web-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScr
 
 ### 🌐 Portfolio Website
 A personal website built using HTML, CSS, and JavaScript.  
-[🔗 View Project](https://github.com/aman05hub/Portfolio-Website)
+[🔗 View ]( https://aman05hub.github.io/aman05hub/)
 
 ---
 
