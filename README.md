@@ -20,13 +20,11 @@
 ---
 
 ## 💻 Projects
-### 🎮 Tic Tac Toe Game
-A fun two-player Tic Tac Toe web game built using **HTML**, **CSS**, and **JavaScript**.  
-[🔗 View Project](https://github.com/aman05hub/Tic-Tac-Toe)
+### 🎮 Basic Tic Tac Toe Game
+A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.  
+[🔗 View Live Project](https://aman05hub.github.io/Tic-Tac-Toe/)  
+[💻 View Source Code](https://github.com/aman05hub/Tic-Tac-Toe)
 
-### 📘 Library Management System
-A Java + MySQL-based desktop app to manage books, users, and transactions.  
-[🔗 View Project](https://github.com/aman05hub/Library-Management-System)
 
 ### 🌐 Portfolio Website
 A personal website built using HTML, CSS, and JavaScript.  
