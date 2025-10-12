@@ -26,6 +26,12 @@ A simple web-based Rock Paper Scissors game built using **HTML**, **CSS**, and *
 [💻 View Source Code](https://github.com/aman05hub/Rock-Paper-Scissors)
 
 
+### 🎮 Tic-Tac-Toe
+A simple web-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**.  
+[🔗 View Live Project](https://aman05hub.github.io/Tic-Tac-Toe/)  
+[💻 View Source Code](https://github.com/aman05hub/Tic-Tac-Toe)
+
+
 ### 🌐 Portfolio Website
 A personal website built using HTML, CSS, and JavaScript.  
 [🔗 View Project](https://github.com/aman05hub/Portfolio-Website)
