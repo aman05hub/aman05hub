@@ -20,10 +20,10 @@
 ---
 
 ## 💻 Projects
-### 🎮 Basic Tic Tac Toe Game
+### 🎮 Rock-Paper-Scissors
 A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.  
-[🔗 View Live Project](https://aman05hub.github.io/Tic-Tac-Toe/)  
-[💻 View Source Code](https://github.com/aman05hub/Tic-Tac-Toe)
+[🔗 View Live Project](https://aman05hub.github.io/Rock-Paper-Scissors/)  
+[💻 View Source Code](https://github.com/aman05hub/Rock-Paper-Scissors)
 
 
 ### 🌐 Portfolio Website
