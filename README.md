@@ -21,7 +21,7 @@
 
 ## 💻 Projects
 ### 🎮 Rock-Paper-Scissors
-A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.  
+A simple web-based Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**.  
 [🔗 View Live Project](https://aman05hub.github.io/Rock-Paper-Scissors/)  
 [💻 View Source Code](https://github.com/aman05hub/Rock-Paper-Scissors)
 
