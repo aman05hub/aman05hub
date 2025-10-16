@@ -21,13 +21,15 @@
 
 ## 💻 Projects
 ### 🎮 Rock-Paper-Scissors
-A simple web-based Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**.  
+An interactive browser game where users play Rock, Paper, Scissors against the
+Computer using HTML, CSS, JavaScript..  
 [🔗 View Live Project](https://aman05hub.github.io/Rock-Paper-Scissors/)  
 [💻 View Source Code](https://github.com/aman05hub/Rock-Paper-Scissors)
 
 
 ### 🎮 Tic-Tac-Toe
-A simple web-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**.  
+A fun two-player web game built with HTML, CSS, and JavaScript featuring simple logic
+and responsive design. 
 [🔗 View Live Project](https://aman05hub.github.io/Tic-Tac-Toe/)  
 [💻 View Source Code](https://github.com/aman05hub/Tic-Tac-Toe)
 
