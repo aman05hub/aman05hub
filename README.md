@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman!
 
-🎓 **BCA 3rd Year Student** | 💻 Aspiring Software Developer  
+🎓 **BCA 3rd Year Student** | 💻 Aspiring Full Stack Web Developer  
 
 ---
 
